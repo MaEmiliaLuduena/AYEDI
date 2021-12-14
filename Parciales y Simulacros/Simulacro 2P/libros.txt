@@ -1,0 +1,23 @@
+ID: 22, Nombre: Juanito el astronauta,Autor: Paco
+ID: 23, Nombre: Juanito en el espacio,Autor: Paco
+ID: 26, Nombre: Juanito en la selva,Autor: Paco
+ID: 69, Nombre: Juanito viajes en el tiempo,Autor: Paco 
+ID: 654, Nombre: Juanito est� cansado,Autor: Paco 
+ID: 98, Nombre: Juanito el heroe ,Autor: Paco 
+ID: 231, Nombre: Juanito el casafantasma,Autor: Paco 
+ID: 36, Nombre: Juanito, el final?,Autor: Paco 
+ID: 212, Nombre: Juanito. EL REGRESO,Autor: Paco 
+ID: 6, Nombre: Juanito, la batalla,Autor: Paco 
+ID: 1, Nombre: Juanito el guerrero,Autor: Paco 
+ID: 2, Nombre: La caida de Juanito,Autor: Paco 
+ID: 5, Nombre: Juanito. El regreso,Autor: Paco 
+ID: 7, Nombre: Juanito. Batallas finales,Autor: Paco 
+ID: 8, Nombre: Juanito. Se rendira?,Autor: Paco 
+ID: 9, Nombre: Juanito. Continuara,Autor: Paco 
+ID: 89, Nombre: Juanito no se rinde,Autor: Paco 
+ID: 66, Nombre: Juanito. La batalla naval ,Autor: Paco 
+ID: 65, Nombre: Juanito esta perdido!!,Autor: Paco 
+ID: 35, Nombre: Juanito. El rescate ,Autor: Paco 
+ID: 03, Nombre: Juanito. El gran regreso,Autor: Paco 
+ID: 02, Nombre: Juanito. La batalla final,Autor: Paco 
+ID: 01, Nombre: Juanito. Epilogo,Autor: Paco 

@@ -1,0 +1,89 @@
+ALGORITMOS Y ESTRUCTURAS DE DATOS I
+18 AGOSTO 2021
+
+El programa debe:
+
+pedir por teclado el dinero actual de una persona
+pedir por teclado el precio del insumo que quiere comprar en USD
+convertir ese dinero a dolares( 1USD -> 170$)
+devoler por pantalla True en caso que pueda comprar, False en caso que no
+No deben aparecer errores
+
+
+El programa debe:
+- pedir dos datos por consola
+- verificar que los dos datos sean numeros enteros
+- en caso verdadero imprimir la suma de ambos
+- en caso contrario imprimir error
+
+Iterador: una acción tras otra, ejecucion completa de bloque de codigo que se reitera, se repite.
+
+Bandera o flag: es un concepto de cualquier lenguaje de programación,
+ es una variable de tipo booleana. Se usa para manejar distintas partes de mi programa.
+
+-Break: termina con la ejecución del bucle.
+
+-Continue: se salta todo el código restante en la iteración actual y vuelve al principio.
+salta a la siguiente iteración, no se sale del bucle.
+
+-Bucle for: itera sobre los items de cualquier secuencia en el orden en que aparecen las sentencias.
+El numero de iteraciones está definido de antemano. Define las veces que se va a ejecutar el código.
+
+
+1 DE SEPTIEMBRE
+
+En dos semanas el examen.
+
+Un programa con varias funciones, y esas funciones van a tener cosas que hacer.
+Ej fabrica de autos, que conulte la lista, y demás.
+
+Principios de la función: Reusabilidad, Modularidad.
+
+MIERCOLES 29 DE SEPTIEMBRE PARCIAL
+
+Va a ser un ejercicio.
+
+6 DE OCTUBRE
+Set no permite agregar elemento duplicados.
+Imprime de manera desordenada.
+
+FOTO DE LOS MÉTODOS DE LOS DICCIONARIOS EN LA CLASE 16 EN COLAB
+
+13 DE OCTUBRE
+
+Instanciar es crear un objeto de una clase
+El self tiene que estar cuando se llaman a los metodos ?
+Cuando paso por parámetro dentro de la función ese parámetro no va con el self.
+
+14 DE OCTUBRE
+
+Con el return no hace falta poner break, porque el return me saca de la función.
+El self se pone para los métodos que están dentro de una clase. Self siempre hace caso al objeto.
+
+2DO PARCIAL 17 DE NOVIEMBRE
+24 DE NOVIEMBRE RECUPERATORIO 2 EXAMEN
+
+super() sirve para llamar al método de la clase
+
+COLOQUIO 1/12 | 2/12 Conectarse para hablar del parcial. VA A SER A LAS 19HS
+
+3 DE NOVIEMBRE
+
+FICHEROS:
+read() lee todo el documento.
+readline() imprime linea por linea.
+readline(1) imprimer caracter por caracter (uno abajo del otro).
+split() para cortar caracteres de una lista., y lo guarda en una lista.
+sort() para ordenar.
+
+Ej ejercicios PARCIAL ficheros
+Crear un animal y escribilo en un texto
+
+
+
+
+
+
+
+
+
